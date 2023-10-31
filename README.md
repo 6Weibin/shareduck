@@ -1,2 +1,2 @@
-# shareduck
+# ShareDuck
 ShareDuck is ......
